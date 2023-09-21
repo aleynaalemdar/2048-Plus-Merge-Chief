@@ -16,7 +16,7 @@ What sets 2048 Plus: Merge Chief apart is its Autoplay button, which triggers an
 
 # Key Features:
 
-🧠 Advanced Algorithm: My proprietary algorithm analyzes the board and predicts the optimal moves to maximize your score.
+🧠 Advanced Algorithm: Algorithm analyzes the board and predicts the optimal moves to maximize your score.
 
 🌟 Challenging Puzzles: Put your strategic thinking to the test with increasingly complex puzzles that will push your limits.
 
