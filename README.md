@@ -14,6 +14,11 @@ The objective is simple: merge tiles to reach the elusive 2048 tile and beyond. 
 # Autoplay Feature: 
 What sets 2048 Plus: Merge Chief apart is its Autoplay button, which triggers an AI-driven algorithm capable of making the best move in every situation. Whether you're a puzzle novice or a seasoned pro, the Autoplay feature is your secret weapon for conquering the game's toughest challenges.
 
+# How to Play:
+Arrow Keys: Use the arrow keys (Up, Down, Left, Right) to slide tiles in the corresponding direction.
+
+W-A-S-D Keys: Alternatively, you can also play using the W (Up), A (Left), S (Down), and D (Right) keys.
+
 # Key Features:
 
 🧠 Advanced Algorithm: Algorithm analyzes the board and predicts the optimal moves to maximize your score.
