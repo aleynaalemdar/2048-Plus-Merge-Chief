@@ -22,8 +22,6 @@ What sets 2048 Plus: Merge Chief apart is its Autoplay button, which triggers an
 
 🎨 Sleek Design: Enjoy a visually pleasing experience with polished graphics and a clean, intuitive interface.
 
-🏆 Achievements and Leaderboards: Compete with friends and players worldwide to climb the leaderboards and earn achievements.
-
 🔄 Endless Replayability: With randomized tile spawns, every game is a unique challenge waiting to be conquered.
 
 # Contact Information: 
